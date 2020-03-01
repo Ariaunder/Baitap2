@@ -1,0 +1,20 @@
+
+<h2>Danh sách 3 nu?c </h2>
+
+<ul style="list-style-type:square;">
+  <li>Vi?t Nam</li>
+    <ol>Hà N?i</ol>
+    <ol>Hu?</ol>
+    <ol>Ðà N?ng</ol>
+    <ol>Sài Gòn</ol>
+  <li>M?</li>
+    <ol>New York</ol>
+    <ol>Los Angeles</ol>
+    <ol>Chicago</ol>
+    <ol>Houston</ol>
+  <li>Trung Qu?c</li>
+    <ol>Beijing</ol>
+    <ol>Chongqing</ol>
+    <ol>Shanghai</ol>
+    <ol>TianJin</ol>
+</ul>
